@@ -1,4 +1,4 @@
-# Cuda-openMp-MPI 
+## Cuda-openMp-MPI 
 
 A simple project written in C demonstrating the use of Cuda-openMp-MPI tools.
 
