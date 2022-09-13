@@ -13,9 +13,7 @@ This is a seemingly simple problem that can be solved with a simple algorithm, b
 In this solution we try to get more processing power in order to shorten the times by several methods:
 1. Division of the problem into sub-problems when each process checks whether one of the images is on the matrix.
 
-
 2. Each such process addresses via CUDA the video card to calculate whether a single image is in any thread.
-
 
 3.*If necessary, the code supports sending data (tested in Linux) to another computer on the same network to obtain its processing power for further shortening of times.
 
